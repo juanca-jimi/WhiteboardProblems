@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9E7B86FD-4EE1-46C6-AC2E-6A1F2C3DDDE5}</ProjectGuid>
+    <ProjectGuid>{87ABC195-43CB-4EA2-9076-1B96107144F8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ReversingAString</RootNamespace>
-    <AssemblyName>ReversingAString</AssemblyName>
+    <RootNamespace>SumOfPrimes</RootNamespace>
+    <AssemblyName>SumOfPrimes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ReverseString.cs" />
+    <Compile Include="AddPrimes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9E7B86FD-4EE1-46C6-AC2E-6A1F2C3DDDE5}</ProjectGuid>
+    <ProjectGuid>{926E7CA0-2EC2-4952-9D24-35845D54A07E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ReversingAString</RootNamespace>
-    <AssemblyName>ReversingAString</AssemblyName>
+    <RootNamespace>SumOfOddNumbers</RootNamespace>
+    <AssemblyName>SumOfOddNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ReverseString.cs" />
+    <Compile Include="SumOdds.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
