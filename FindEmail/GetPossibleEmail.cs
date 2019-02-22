@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FindEmail
 {
-    class GetPossibleEmail
+    class RetrieveEmail
     {
         static void Main(string[] args)
         {

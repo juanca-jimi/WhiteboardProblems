@@ -8,17 +8,16 @@ namespace SumOfDigits
 {
     public class AddDigitsToSingleDigit
     {
-        public static int sum = 0;
         public static int SumOfDigits(int Number)
         {
-            if (Number > 10)
+            int sum = 0;
+            while (Number > 0)
             {
-                for (int i = 0; i < ; i++)
-                {
-                    
-                }
+                sum += Number % 10;
+                Number /= 10;
             }
-            return (sum > 9 ? SumOfDigits(sum) : sum);
+            sum = (sum > 9) ? SumOfDigits(sum): sum;
+            return sum;
         }
         static void Main(string[] args)
         {
