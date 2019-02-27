@@ -17,11 +17,11 @@ namespace NumberTriangle
         {
             Console.WriteLine("Input the number you wish to take your triangle up to");
             int howHigh = Convert.ToInt32(Console.ReadLine());
-            for (int row = 1; row <= howHigh; row++)
+            for (int rowNumber = 1; rowNumber <= howHigh; rowNumber++)
             {
-                for (int digit = 1; digit <= row; digit++)
+                for (int digits = 1; digits <= rowNumber; digits++)
                 {
-                    Console.Write(row);
+                    Console.Write(rowNumber);
                 }
                 Console.WriteLine();
             }
