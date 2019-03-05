@@ -40,7 +40,7 @@ namespace NumberOfLettersWithTimes
                 {
                     if (characterToCount[i] == letter)
                     {
-                        counter[i]++;
+                        //counter[i]++; Don't know what I was thinking
                     }
                 }
             }
