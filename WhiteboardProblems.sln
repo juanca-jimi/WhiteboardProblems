@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderName", "OrderName\Orde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderNameTests1", "OrderNameTests1\OrderNameTests1.csproj", "{6A8B23F6-7EAE-47ED-BAD4-8D9A8DB0E9D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{C027D192-2856-4211-9A35-0AD991A6EE56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{6A8B23F6-7EAE-47ED-BAD4-8D9A8DB0E9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A8B23F6-7EAE-47ED-BAD4-8D9A8DB0E9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A8B23F6-7EAE-47ED-BAD4-8D9A8DB0E9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C027D192-2856-4211-9A35-0AD991A6EE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C027D192-2856-4211-9A35-0AD991A6EE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C027D192-2856-4211-9A35-0AD991A6EE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C027D192-2856-4211-9A35-0AD991A6EE56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
