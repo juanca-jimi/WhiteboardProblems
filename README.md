@@ -1,4 +1,3 @@
 # WhiteboardProblems
 
-Whether on CodeWars, Leetcode, or with mentors- intuitive syntax, effienciency, high cohesion and loose coupling is practiced 
-to find solutions to these problems. 
+Whether on CodeWars, Leetcode, In class, or with mentors- readable syntax, memory effienciency, high cohesion and loose coupling is practiced to find solutions to these problems. 
