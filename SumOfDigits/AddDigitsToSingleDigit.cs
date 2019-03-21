@@ -11,13 +11,12 @@ namespace SumOfDigits
         public static int SumOfDigits(int Number)
         {
             int sum = 0;
-            while (Number > 0)
+            while (Math.Abs(Number) > 0)
             {
                 sum += Number % 10;
                 Number /= 10;
             }
-            sum = (sum > 9) ? SumOfDigits(sum): sum;
-            return sum;
+            return sum > 9 ? SumOfDigits(sum): sum;
         }
         static void Main(string[] args)
         {
