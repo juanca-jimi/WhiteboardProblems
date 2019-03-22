@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsAnnagram", "IsAnnagram\Is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeIn5Numbers", "TakeIn5Numbers\TakeIn5Numbers.csproj", "{EEEB652B-04E4-4858-B326-07585D05E8E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicSubstring", "PalindromicSubstring\PalindromicSubstring.csproj", "{B5208CCD-3B38-4F34-B939-FE8E292DEAE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{EEEB652B-04E4-4858-B326-07585D05E8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEEB652B-04E4-4858-B326-07585D05E8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEEB652B-04E4-4858-B326-07585D05E8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5208CCD-3B38-4F34-B939-FE8E292DEAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5208CCD-3B38-4F34-B939-FE8E292DEAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5208CCD-3B38-4F34-B939-FE8E292DEAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5208CCD-3B38-4F34-B939-FE8E292DEAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
