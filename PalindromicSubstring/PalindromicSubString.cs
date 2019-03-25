@@ -8,15 +8,16 @@ namespace PalindromicSubstring
 {
     // A solution to find how many substrings are in a given string
     //TODO: Write unit test
-    //On LeetCode passed 128 out of 130 test but exceeded time limit due to extreme cases
+    //On LeetCode passed 128 out of 130 test but exceeded time limit due to extreme cases EX:1000 letter As
     class PalindromicSubString
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(CountSubstrings(""));
         }
-        public int CountSubstrings(string s)
+        public static double CountSubstrings(string s)
         {
-            int count = s.Length; 
+            double count = s.Length; 
             // counts the number of characters because each character is a palindrome
             for (int i = 0; i < s.Length - 1; i++)
             {
