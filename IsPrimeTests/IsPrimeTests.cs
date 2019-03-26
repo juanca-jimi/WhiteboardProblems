@@ -15,7 +15,7 @@ namespace IsPrime.Tests
         [TestMethod()]
         public void isPrimeTest()
         {
-            Assert.AreEqual();
+            //Assert.AreEqual();
         }
     }
 }

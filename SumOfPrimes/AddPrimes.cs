@@ -11,6 +11,7 @@ namespace SumOfPrimes
         static void Main(string[] args)
         {
             Console.WriteLine("This is your AddPrimes proj");
+            Console.WriteLine(SumOfPrimes(200));
         }
         public static int SumOfPrimes(int input)
         {
