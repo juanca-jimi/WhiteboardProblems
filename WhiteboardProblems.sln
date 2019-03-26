@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatherSonYearToDouble", "Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findIntercepetOfLines", "findIntercepetOfLines\findIntercepetOfLines.csproj", "{52C19D6A-A0BB-475F-9E0B-BB8410CD7AF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintFibonacciDigits", "PrintFibonacciDigits\PrintFibonacciDigits.csproj", "{C052320A-0EFC-4A73-A454-D9C39DB39468}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{52C19D6A-A0BB-475F-9E0B-BB8410CD7AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C19D6A-A0BB-475F-9E0B-BB8410CD7AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C19D6A-A0BB-475F-9E0B-BB8410CD7AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
