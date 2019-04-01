@@ -75,6 +75,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findIntercepetOfLines", "fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintFibonacciDigits", "PrintFibonacciDigits\PrintFibonacciDigits.csproj", "{C052320A-0EFC-4A73-A454-D9C39DB39468}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifoQueue", "FifoQueue\FifoQueue.csproj", "{336D13DF-00C9-4011-9436-6A29BFF47EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseCaseOfString", "ConsoleApp1\ReverseCaseOfString.csproj", "{DF320253-7E83-4689-BC6D-BFF93F93E49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorIntDigits", "MirrorDigitsInt\MirrorIntDigits.csproj", "{76B5253D-2D0D-4A52-8F39-AD52127E6F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabblePoints", "ScrabblePoints\ScrabblePoints.csproj", "{8B189C6A-3526-4377-AC2E-775BD6550C91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +233,22 @@ Global
 		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C052320A-0EFC-4A73-A454-D9C39DB39468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336D13DF-00C9-4011-9436-6A29BFF47EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336D13DF-00C9-4011-9436-6A29BFF47EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336D13DF-00C9-4011-9436-6A29BFF47EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336D13DF-00C9-4011-9436-6A29BFF47EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF320253-7E83-4689-BC6D-BFF93F93E49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF320253-7E83-4689-BC6D-BFF93F93E49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF320253-7E83-4689-BC6D-BFF93F93E49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF320253-7E83-4689-BC6D-BFF93F93E49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B5253D-2D0D-4A52-8F39-AD52127E6F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B5253D-2D0D-4A52-8F39-AD52127E6F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B5253D-2D0D-4A52-8F39-AD52127E6F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B5253D-2D0D-4A52-8F39-AD52127E6F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
