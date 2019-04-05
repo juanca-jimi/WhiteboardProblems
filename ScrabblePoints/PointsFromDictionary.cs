@@ -11,7 +11,7 @@ namespace ScrabblePoints
         //TODO: Write unit test
         static void Main(string[] args)
         {
-            //j=8 i=i m=3 i=i
+            //j=8 i=1 m=3 i=1
             Console.WriteLine(PointTest("jimi")); //13
         }
         //Declare new dictionary for points

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversingAString", "ReversingAString\ReversingAString.csproj", "{9E7B86FD-4EE1-46C6-AC2E-6A1F2C3DDDE5}"
 EndProject
@@ -82,6 +82,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorIntDigits", "MirrorDigitsInt\MirrorIntDigits.csproj", "{76B5253D-2D0D-4A52-8F39-AD52127E6F54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabblePoints", "ScrabblePoints\ScrabblePoints.csproj", "{8B189C6A-3526-4377-AC2E-775BD6550C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetUpBowlingPins", "SetUpBowlingPins\SetUpBowlingPins.csproj", "{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B189C6A-3526-4377-AC2E-775BD6550C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
