@@ -95,6 +95,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MinIntInArr", "MinIntInArr"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IsItPrime", "IsItPrime", "{A3C12730-A088-4E81-B0F5-13A4EB42107E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FixGitHub", "FixGitHub", "{0D44B43F-F8C1-4AC5-8D60-E8140572C22C}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
