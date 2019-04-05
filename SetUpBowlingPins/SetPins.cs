@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SetUpBowlingPins
 {
-    class Program
+    class SetPins
     {
         //todo:Write unit test
         static void Main(string[] args)
@@ -49,7 +49,7 @@ namespace SetUpBowlingPins
             {
                 Console.Clear();
                 Console.WriteLine("Please Try Again\n");
-                
+
                 SetUpPins();
             }
             return j;
