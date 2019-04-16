@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace NumberOfLettersWithTimes
 {
     // The goal here is to return the characters and the number of times each character is used!
+    // Recently thought of using a dictionary data structure to make this better
     class Program
     {
         static void Main(string[] args)
