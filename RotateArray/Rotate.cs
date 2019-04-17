@@ -12,6 +12,7 @@ namespace RotateArray
         {
             Console.WriteLine("\t RotatingArray.Rotate");
             answer();
+            Console.ReadLine();
         }
         private static void prompt(int[] A, int[] B, int[] C)
         {
