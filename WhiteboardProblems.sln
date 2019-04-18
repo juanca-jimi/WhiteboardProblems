@@ -93,6 +93,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MinIntInArr", "MinIntInArr"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IsItPrime", "IsItPrime", "{A3C12730-A088-4E81-B0F5-13A4EB42107E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSubString", "FindSubString\CheckSubString.csproj", "{D0B95AA9-7D94-4E33-9B72-EE957CCCE1B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3EC529-F478-4BC7-BD0E-AA025FC8FCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B95AA9-7D94-4E33-9B72-EE957CCCE1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B95AA9-7D94-4E33-9B72-EE957CCCE1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B95AA9-7D94-4E33-9B72-EE957CCCE1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B95AA9-7D94-4E33-9B72-EE957CCCE1B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

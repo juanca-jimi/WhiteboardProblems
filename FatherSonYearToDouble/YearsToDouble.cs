@@ -21,7 +21,6 @@ namespace FatherSonYearToDouble
             writeToConsole(yearsToDoubleAge(2, 4));// This year
             Console.ReadLine();
             yearsToDoubleAge(4,2); // Exception Thrown
-            Console.ReadLine();
         }
 
         public static int yearsToDoubleAge(int sonsAge, int fathersAge)
