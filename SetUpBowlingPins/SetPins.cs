@@ -14,6 +14,8 @@ namespace SetUpBowlingPins
             SetUpPins();
             Console.ReadLine();
         }
+
+        //Our Main UI method
         public static void SetUpPins()
         {
             Console.WriteLine("How Many pins do you want to set up?");
@@ -30,6 +32,8 @@ namespace SetUpBowlingPins
                 Console.WriteLine();
             }
         }
+
+        //We have to figure out how many rows we'll make to set the upside down triangle pattern
         public static int findRowNumbers(int n)
         {
             int j = 0;
@@ -55,7 +59,8 @@ namespace SetUpBowlingPins
             return j;
         }
 
-        public static bool isPinnable(int n)
+        //Checking if the number we're passing in is pinnable(Able to be set as bowling pins)
+        private static bool isPinnable(int n)
         {
             int count = 0;
             for (int i = 1; i <= n; i++)

@@ -13,11 +13,12 @@ namespace FindSubString
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Contains("dsfddfnjdks", "Jane")); // -1 or Does not exist in string
-            Console.WriteLine(Contains("GemMMADFSFES", "FSF")); // 8th letter
+            Console.WriteLine(positionThatContains("dsfddfnjdks", "Jane")); // -1 or Does not exist in string
+            Console.WriteLine(positionThatContains("GemMMADFSFES", "FSF")); // 8th letter
             Console.ReadLine();
         }
-        public static int Contains(string firstString , string substringCheck )
+
+        public static int positionThatContains(string firstString , string substringCheck )
         {
             //Begin looping through indexes of the first string
             for (int i = 0; i < firstString.Length; i++)
